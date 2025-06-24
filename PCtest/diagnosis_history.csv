@@ -1,0 +1,10 @@
+timestamp,symptoms,diagnosis
+2025-05-20 15:42:13,"{""power"": false, ""fans"": true, ""temp"": 0.0, ""noise"": false}",Невідомо
+2025-05-20 15:42:25,"{""power"": false, ""fans"": false, ""temp"": 0.0, ""noise"": false}","Можливо, несправний блок живлення"
+2025-05-20 15:46:08,"{""power"": false, ""fans"": false, ""temp"": 1.0, ""noise"": false}","Можливо, несправний блок живлення"
+2025-05-20 15:46:19,"{""power"": false, ""fans"": false, ""temp"": 1.0, ""noise"": true}","Можливо, несправний блок живлення"
+2025-05-20 15:46:30,"{""power"": false, ""fans"": true, ""temp"": 100.0, ""noise"": true}",Невідомо
+2025-05-20 15:46:32,"{""power"": false, ""fans"": true, ""temp"": 100.0, ""noise"": true}",Невідомо
+2025-05-20 15:46:45,"{""power"": false, ""fans"": false, ""temp"": 100.0, ""noise"": true}","Можливо, несправний блок живлення"
+2025-05-20 15:46:50,"{""power"": false, ""fans"": false, ""temp"": 100.0, ""noise"": false}","Можливо, несправний блок живлення"
+2025-05-20 15:46:54,"{""power"": true, ""fans"": false, ""temp"": 100.0, ""noise"": true}",Перегрів системи охолодження
